@@ -1,0 +1,37 @@
+{
+    "name": "stone furnace",
+	"description": "used for the most simple smelting processes with fuel, the scratchers dont like the smell this building produces",
+    "type": "multicraft.MultiCrafter",
+    "buildCostMultiplier": 0.1,
+    "category": "crafting",
+    "research": "stone", 
+    "requirements": [
+      "stone/5",
+    ],
+    "size": 2,
+    squareSprite: false
+    "hasLiquids": false,
+    "hasItems": true,
+    "craftEffect": "none",
+    "itemCapacity": 100,
+    "recipes": [
+    {
+    "input": {
+        "items": ["coal/4","auvathiaworlds-copper-ore/20",]
+        },
+    "output":{
+        "items": ["auvathiaworlds-copper-plate/15"]
+        },
+    "craftTime": 120
+    },
+	{
+    "input": {
+        "items": ["auvathiaworlds-stone/8","coal/2",]
+        },
+    "output":{
+        "items": ["auvathiaworlds-stone-bricks/4",]
+        },
+    "craftTime": 120
+    },
+]
+}
