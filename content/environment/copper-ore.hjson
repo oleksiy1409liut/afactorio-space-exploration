@@ -1,0 +1,5 @@
+type: OreBlock
+name: copper
+itemDrop: copper-ore
+cost: 2
+variants: 1
