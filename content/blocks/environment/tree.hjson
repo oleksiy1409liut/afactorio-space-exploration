@@ -2,7 +2,7 @@
 type: "TreeBlock",
 name: "dry tree",
 destructible: "true"
-category: "walls",
+category: "production",
 size: 2
 
     requirements: [
