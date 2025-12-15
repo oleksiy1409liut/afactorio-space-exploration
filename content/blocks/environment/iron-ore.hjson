@@ -1,0 +1,5 @@
+type: OreBlock
+name: iron
+itemDrop: iron-ore
+cost: 1
+variants: 1
