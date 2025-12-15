@@ -1,0 +1,14 @@
+{
+type: material
+name: stone
+description: most common in the planet cluster, useful in basic infrastructure and bricks
+cost: 3.0
+color: ffffff
+research: research-remnant
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
