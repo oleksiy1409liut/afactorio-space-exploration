@@ -18,19 +18,19 @@
     "recipes": [
     {
     "input": {
-        "items": ["coal/4","auvathiaworlds-copper-ore/20",]
+        "items": ["coal/4","factorio-se-k2-copper-ore/20",]
         },
     "output":{
-        "items": ["auvathiaworlds-copper-plate/15",]
+        "items": ["factorio-se-k2-copper-plate/15"]
         },
     "craftTime": 120
     },
 	{
     "input": {
-        "items": ["auvathiaworlds-stone/8","coal/2",]
+        "items": ["factorio-se-k2-stone/8","coal/2",]
         },
     "output":{
-        "items": ["auvathiaworlds-stone-bricks/4",]
+        "items": ["factorio-se-k2-stone-bricks/4"]
         },
     "craftTime": 120
     },
