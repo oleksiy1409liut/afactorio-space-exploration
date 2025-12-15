@@ -1,0 +1,14 @@
+{
+type: material
+name: iron ore
+description: found on most planets in the cluster, useless unless smelted into iron plates but can be used in concrete
+cost: 3.0
+color: ffffff
+research: research-remnant
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
