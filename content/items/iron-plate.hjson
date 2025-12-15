@@ -1,0 +1,14 @@
+{
+type: material
+name: iron plate
+description: smelted iron ore, used in lots of intermediates, buildings, ammunition and other things
+cost: 3.0
+color: ffffff
+research: iron-plate
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
