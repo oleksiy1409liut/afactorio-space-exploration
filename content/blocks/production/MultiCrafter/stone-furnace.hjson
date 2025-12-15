@@ -34,5 +34,13 @@
         },
     "craftTime": 1200
     },
+ "input": {
+        "items": ["factorio-se-k2-iron-ore/20","coal/4",]
+        },
+    "output":{
+        "items": ["factorio-se-k2-iron-plate/15"]
+        },
+    "craftTime": 1200
+    },
 ]
 }
