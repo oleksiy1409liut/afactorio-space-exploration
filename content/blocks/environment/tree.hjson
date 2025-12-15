@@ -1,0 +1,10 @@
+{
+type: "TreeBlock",
+name: "dry tree",
+destructible: "true"
+category: "walls",
+
+    requirements: [
+        "wood/4",
+    ],
+}
