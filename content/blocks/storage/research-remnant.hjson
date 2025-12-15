@@ -9,7 +9,7 @@ isFirstTier: true
 size: 3
 squareSprite: false
 alwaysUnlocked: true
-unitType: core-drone
+unitType: smasher
 health: 568
 itemCapacity: 1700
 unitCapModifier: 5
