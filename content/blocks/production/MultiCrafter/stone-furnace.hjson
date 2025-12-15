@@ -23,7 +23,7 @@
     "output":{
         "items": ["factorio-se-k2-copper-plate/15"]
         },
-    "craftTime": 120
+    "craftTime": 1200
     },
 	{
     "input": {
@@ -32,7 +32,7 @@
     "output":{
         "items": ["factorio-se-k2-stone-bricks/4"]
         },
-    "craftTime": 120
+    "craftTime": 1200
     },
 ]
 }
