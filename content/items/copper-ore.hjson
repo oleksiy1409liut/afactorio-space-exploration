@@ -1,0 +1,14 @@
+{
+type: material
+name: copper ore
+description: found on most planets in the cluster, useless unless smelted into copper
+cost: 3.0
+color: ffffff
+research: research-remnant
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
