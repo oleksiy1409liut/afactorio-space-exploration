@@ -1,0 +1,14 @@
+{
+type: material
+name: copper plate
+description: processed copper ore, can be used in wires, intermediates and basic ammunition
+cost: 3.0
+color: ffffff
+research: copper-ore
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
