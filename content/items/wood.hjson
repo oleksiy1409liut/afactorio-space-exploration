@@ -1,0 +1,14 @@
+{
+type: material
+name: wood
+description: clean plant matter commonly found in wet planets, can be used in basic science and electric poles
+cost: 3.0
+color: ffffff
+research: research-remnant
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
