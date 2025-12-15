@@ -1,0 +1,4 @@
+name: "new sand"
+type: Floor
+variants: 1
+placeableOn: true
