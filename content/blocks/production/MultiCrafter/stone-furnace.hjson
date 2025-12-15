@@ -4,6 +4,7 @@
     "type": "multicraft.MultiCrafter",
     "buildCostMultiplier": 0.1,
     "category": "crafting",
+    "health": 50,
     "research": "stone", 
     "requirements": [
       "stone/5",
