@@ -143,5 +143,5 @@ launchCandidates: []
 #]
 # Only items available in this planet. Recommended over hiddenItems.
 hiddenItems: [
-copper, lead, graphite, titanium, thorium, phase-fabric, surge-alloy, metaglass, plastanium, beryllium, carbide
+copper, lead, graphite, titanium, thorium, phase-fabric, surge-alloy, metaglass, plastanium, beryllium, carbide, oxide, tungsten, silicon
 ]
