@@ -3,6 +3,7 @@ type: "TreeBlock",
 name: "dry tree",
 destructible: "true"
 category: "walls",
+size: 2
 
     requirements: [
         "wood/4",
