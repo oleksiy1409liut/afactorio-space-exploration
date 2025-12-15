@@ -20,7 +20,7 @@
         "items": ["coal/4","auvathiaworlds-copper-ore/20",]
         },
     "output":{
-        "items": ["auvathiaworlds-copper-plate/15"]
+        "items": ["auvathiaworlds-copper-plate/15",]
         },
     "craftTime": 120
     },
