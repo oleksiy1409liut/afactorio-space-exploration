@@ -4,15 +4,12 @@ type: Drill
 hasLiquids: false
 size: 2
 itemCapacity: 50
-mineTier: 3
-tier: 3
+tier: 1
 consumes: {
-liquids: [
-burner-fuel/0.1
+items: [
+coal/1
 ]
 }
-
-tier: 1
 drillTime: 200
 drawMineItem: false
 alwaysUnlocked: true
