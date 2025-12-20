@@ -1,0 +1,19 @@
+name: burner fuel
+description: used in burner machines as fuel, made from coal or wood
+heatCapacity: 0
+explosiveness: 1.5
+temperature: 0.5
+coolant: false
+gas: false
+color: ffffff00
+flammability: 1
+gasColor: ffffff00
+barColor: ffffff33
+incinerable: false
+lightColor: ffffff00
+research: {
+  parent: coal
+  objectives: [ 
+    coal
+  ]
+}
