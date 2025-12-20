@@ -4,7 +4,7 @@ type: Drill
 hasLiquids: false
 size: 2
 itemCapacity: 50
-tier: 2
+tier: 3
 consumes: {
 items: [
 coal/1
@@ -12,7 +12,7 @@ coal/1
 }
 
 tier: 1
-drillTime: 700
+drillTime: 200
 drawMineItem: false
 alwaysUnlocked: true
 requirements: [
