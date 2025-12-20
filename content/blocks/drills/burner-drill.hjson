@@ -4,7 +4,7 @@ type: Drill
 hasLiquids: false
 size: 2
 itemCapacity: 50
-mineTier: 2
+mineTier: 4
 consumes: {
 items: [
 coal/1
