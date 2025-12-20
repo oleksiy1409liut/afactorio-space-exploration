@@ -4,11 +4,11 @@ type: Drill
 hasLiquids: false
 size: 2
 itemCapacity: 50
-mineTier: 4
-tier: 4
+mineTier: 40
+tier: 40
 consumes: {
-items: [
-coal/1
+liquids: [
+burner-fuel/0.1
 ]
 }
 
