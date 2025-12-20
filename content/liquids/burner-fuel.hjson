@@ -1,5 +1,5 @@
-name: burner fuel
-description: used in burner machines as fuel, made from coal or wood
+name: liquid rocket fuel
+description: used in cargo rockets
 heatCapacity: 0
 explosiveness: 1.5
 temperature: 0.5
@@ -12,8 +12,8 @@ barColor: ffffff33
 incinerable: false
 lightColor: ffffff00
 research: {
-  parent: coal
+  parent: thorium
   objectives: [ 
-    coal
+    thorium
   ]
 }
