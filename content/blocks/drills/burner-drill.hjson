@@ -4,8 +4,8 @@ type: Drill
 hasLiquids: false
 size: 2
 itemCapacity: 50
-mineTier: 40
-tier: 40
+mineTier: 3
+tier: 3
 consumes: {
 liquids: [
 burner-fuel/0.1
