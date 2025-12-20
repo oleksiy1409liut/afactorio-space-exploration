@@ -72,8 +72,8 @@ generator: {
   fper: 0.6
 
   # Asteroid radius range.
-  radMin: 600
-  radMax: 600
+  radMin: 0
+  radMax: 0
 
   # This one is ABSOLUTELY pointless, lmao.
   stoneChance: 0
