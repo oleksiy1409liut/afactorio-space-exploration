@@ -1,0 +1,27 @@
+name: burner drill
+description: uses coal to work and mine ores, practically useless after burner phase
+type: Drill
+hasLiquids: false
+size: 2
+itemCapacity: 50
+consumes: {
+items: [
+coal/1
+]
+}
+
+tier: 1
+drillTime: 450
+drawMineItem: false
+alwaysUnlocked: true
+requirements: [
+  factorio-se-k2-iron-plate/15
+  factorio-se-k2-stone-bricks/5
+]
+category: production
+research: {
+  parent: coal
+  requirements: [
+    coal/10
+  ]
+}
