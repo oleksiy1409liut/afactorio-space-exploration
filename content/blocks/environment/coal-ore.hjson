@@ -1,0 +1,5 @@
+type: OreBlock
+name: coal ore
+itemDrop: coal
+cost: 1
+variants: 1
