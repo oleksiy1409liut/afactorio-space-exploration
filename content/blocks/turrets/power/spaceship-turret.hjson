@@ -1,0 +1,26 @@
+"type": PowerTurret,
+"name": spaceship turret
+"description": armed with a mini-reactor to shoot little bullets at enemies or asteroids, please build everything expensive in its range for best defence
+"size": 3,
+"health": 200,
+range: 185,
+rotateSpeed: 5,
+reload: 10
+burstSpacing: 1
+shots: 1
+xRand: 1
+consumes: {}
+recoilAmount: 3
+isBuildable: false
+shootType: {
+  type: BasicBulletType,
+  height: 10
+  width: 2
+  damage: 15
+  speed: 10
+  lifetime: 24
+  frontColor: 03f8fc
+  backColor: ffffff
+}
+category: turret
+research: research-remnant
