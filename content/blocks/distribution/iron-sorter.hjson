@@ -1,0 +1,10 @@
+type: Sorter
+name: Sorter
+health: 80
+requirements: [
+  iron-plate/4
+  copper-plate/1
+] 
+category: distribution
+research: copper-plate
+alwaysUnlocked: true
