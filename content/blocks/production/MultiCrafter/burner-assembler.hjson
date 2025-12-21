@@ -28,7 +28,7 @@
     },
 	{
     "input": {
-        "items": ["factorio-se-k2-copper-plate/1,"coal/1",]
+        "items": ["factorio-se-k2-copper-plate/1","coal/1",]
         },
     "output":{
         "items": ["factorio-se-k2-copper-wire/2",]
@@ -37,7 +37,7 @@
     },
   {
     "input": {
-        "items": ["factorio-se-k2-copper-wire/3,"factorio-se-k2-stone-tablet/1","coal/1",]
+        "items": ["factorio-se-k2-copper-wire/3","factorio-se-k2-stone-tablet/1","coal/1",]
         },
     "output":{
         "items": ["factorio-se-k2-basic-circuit/1",]
