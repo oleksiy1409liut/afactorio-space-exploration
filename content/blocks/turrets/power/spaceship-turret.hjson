@@ -1,7 +1,7 @@
 "type": PowerTurret,
 "name": spaceship turret
 "description": armed with a mini-reactor to shoot little bullets at enemies or asteroids, please build everything expensive in its range for best defence
-"size": 3,
+"size": 2,
 "health": 200,
 range: 185,
 rotateSpeed: 5,
