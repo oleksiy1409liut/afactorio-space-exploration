@@ -1,0 +1,16 @@
+type: StorageBlock
+size: 2
+scaledHealth: 40
+name: spaceship wreck 3
+itemCapacity: 50
+category: effect
+requirements: [
+  coal/2
+  iron-plate/9
+  copper-plate/4
+  stone-bricks/6
+  stone/4
+  basic-circuit/2
+]
+squareSprite: false
+  isBuildable: false
