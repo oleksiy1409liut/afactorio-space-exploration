@@ -1,6 +1,6 @@
 {
   "type": "Wall",
-  "name": "stone wall",
+  name: stone wall
   "description": "simple stone wall made out of stone bricks and stone as filling",
   "category": "defense",
   "research": "stone-bricks",
