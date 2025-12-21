@@ -1,0 +1,14 @@
+{
+type: material
+name: basic tech pack
+description: used in the most basic research, cheap but slow to craft
+cost: 3.0
+color: ffffff
+research: wood
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
