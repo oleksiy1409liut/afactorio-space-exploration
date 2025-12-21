@@ -1,0 +1,58 @@
+{
+  "type": "ItemTurret",
+  "name": "pistol turret",
+  "description": "fires simple iron plate bullets",
+  "health": 250,
+  "reload": 48,
+  "range": 120,
+  "size": 2,
+  "consumes": { 
+    "coolant": { 
+       "amount": 0.1 
+    } 
+  },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 1,
+    "spread": 5,
+    "shotDelay": 15
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "iron-plate": {
+      "speed": 3,
+      "ammoMultiplier": 10,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 25,
+      "lifetime": 50,
+      "height": 8,
+    },
+  },
+  "requirements": [
+    {
+      "item": "iron-plate",
+      "amount": 20
+    },
+    {
+      "item": "copper-plate",
+      "amount": 10
+    },
+    {
+      "item": "basic-circuit",
+      "amount": 1
+    },
+    {
+      "item": "stone-bricks",
+      "amount": 12
+    }
+  ],
+  "category": "turret",
+  "research": "spaceship-turret",
+      }
+  }
+}
