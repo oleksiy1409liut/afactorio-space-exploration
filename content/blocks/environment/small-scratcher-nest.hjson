@@ -1,0 +1,32 @@
+type: PowerTurret
+name: SC hive
+description: the main nest of small scratchers
+placeablePlayer: false
+consumes: {}
+buildVisibility: editorOnly
+customShadow: true
+drawTeamOverlay: false
+reload: 1500
+health: 760
+size: 3
+shootSound: slime-arise
+rotateSpeed: 0
+alwaysShooting: true
+recoil: 0
+inaccuracy: 360
+minRange: 24
+range: 32
+shootX: 0
+shootY: 0
+shootType: {
+  damage: 0
+  width: 0
+  height: 0
+  lifetime: 60
+  spawnUnit: small-scratcher
+  despawnHit: true
+  hitSound: none
+  despawnSound: none
+}  
+outlineColor: 42413e
+squareSprite: false
