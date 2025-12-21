@@ -12,6 +12,14 @@ xRand: 1
 consumes: {}
 recoilAmount: 3
 isBuildable: false
+requirements: [
+  iron-plate/15
+  iron-gear/3
+  copper-wire/2
+  basic-circuit/4
+  stone-tablet/6
+  copper-plate/8
+]
 shootType: {
   type: BasicBulletType,
   height: 10
