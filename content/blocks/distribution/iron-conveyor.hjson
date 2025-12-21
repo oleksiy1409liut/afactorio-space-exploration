@@ -1,0 +1,15 @@
+type: Conveyor
+name: conveyor belt
+description: used in basic item distribution
+category: distribution
+alwaysUnlocked: true
+research: spore-pod
+researchCost: [
+  iron-plate/10
+]
+speed: 0.05
+health: 45
+bridgeReplacement: iron-junction
+requirements: [
+  iron-plate/2
+]
