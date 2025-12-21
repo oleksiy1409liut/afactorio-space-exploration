@@ -1,0 +1,12 @@
+type: Junction
+name: junction
+description: the one of the great spaghetti enablers
+health: 80
+speed: 27
+capacity: 3
+requirements: [
+  iron-plate/6
+] 
+category: distribution
+research: iron-conveyor
+alwaysUnlocked: true
