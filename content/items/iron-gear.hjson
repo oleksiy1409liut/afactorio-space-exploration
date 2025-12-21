@@ -1,0 +1,14 @@
+{
+type: material
+name: iron gear
+description: used in many machinery
+cost: 3.0
+color: ffffff
+research: iron-plate
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
