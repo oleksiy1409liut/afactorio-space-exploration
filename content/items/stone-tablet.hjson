@@ -1,0 +1,14 @@
+{
+type: material
+name: stone tablet
+description: carved stone bricks, used in circuits and as sealant in walls
+cost: 3.0
+color: ffffff
+research: stone-bricks
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
