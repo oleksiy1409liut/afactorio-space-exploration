@@ -1,0 +1,48 @@
+{
+    "name": "burner assembler",
+	"description": "can produce lots of materials at a slow speed and requires coal as fuel, required to progress in your mission",
+    "type": "multicraft.MultiCrafter",
+    "buildCostMultiplier": 0.1,
+    "category": "crafting",
+    "research": "research-remnant", 
+    "requirements": [
+      "copper-plate/15",
+      "iron-plate/20",
+	  "stone-bricks/16",
+	  "stone/20",
+    ],
+    "size": 3,
+    "hasLiquids": false,
+    "hasItems": true,
+    "craftEffect": "none",
+    "itemCapacity": 45,
+    "recipes": [
+    {
+    "input": {
+        "items": ["factorio-se-k2-stone-bricks/1","coal/1",]
+        },
+    "output":{
+        "items": ["factorio-se-k2-stone-tablet/4"]
+        },
+    "craftTime": 60
+    },
+	{
+    "input": {
+        "items": ["factorio-se-k2-copper-plate/1,"coal/1",]
+        },
+    "output":{
+        "items": ["factorio-se-k2-copper-wire/2",]
+        },
+    "craftTime": 30
+    },
+  {
+    "input": {
+        "items": ["factorio-se-k2-copper-wire/3,"factorio-se-k2-stone-tablet/1","coal/1",]
+        },
+    "output":{
+        "items": ["factorio-se-k2-basic-circuit/1",]
+        },
+    "craftTime": 120
+    },
+]
+}
