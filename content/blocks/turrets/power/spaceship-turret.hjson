@@ -2,12 +2,12 @@
 "name": spaceship turret
 "description": armed with a mini-reactor to shoot little bullets at enemies or asteroids, please build everything expensive in its range for best defence
 "size": 2,
-"health": 200,
-range: 185,
-rotateSpeed: 5,
-reload: 10
+"health": 250,
+range: 205,
+rotateSpeed: 20,
+reload: 15
 burstSpacing: 1
-shots: 1
+shots: 2
 xRand: 1
 consumes: {}
 recoilAmount: 3
@@ -24,9 +24,9 @@ shootType: {
   type: BasicBulletType,
   height: 10
   width: 2
-  damage: 15
+  damage: 18
   speed: 10
-  lifetime: 24
+  lifetime: 26
   frontColor: 03f8fc
   backColor: ffffff
 }
