@@ -2,9 +2,9 @@
   "type": "ItemTurret",
   "name": "pistol turret",
   "description": "fires simple iron plate bullets",
-  "health": 250,
-  "reload": 48,
-  "range": 120,
+  "health": 275,
+  "reload": 20,
+  "range": 180,
   "size": 2,
   "consumes": { 
     "coolant": { 
@@ -23,12 +23,12 @@
   "targetGround": true,
   "ammoTypes": {
     "iron-plate": {
-      "speed": 3,
-      "ammoMultiplier": 10,
+      "speed": 6,
+      "ammoMultiplier": 7,
       "hitSize": 8,
       "type": "BasicBulletType",
       "width": 8,
-      "damage": 25,
+      "damage": 32,
       "lifetime": 50,
       "height": 8,
     },
