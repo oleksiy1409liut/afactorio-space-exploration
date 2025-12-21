@@ -1,11 +1,11 @@
     "type": "Wall",
-    "health": 125,
+    "health": 175,
     "size": 1,
     "name": "stone wall"
     category: defense
 requirements: [
   stone-bricks/2
-  stone/4
+  stone/3
 ]
 research: "stone-bricks"
 researchCost: [
