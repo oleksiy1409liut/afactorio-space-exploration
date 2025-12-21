@@ -1,0 +1,14 @@
+{
+type: material
+name: basic circuit
+description: made from stone tablets/wood and copper wire, used in most electronics
+cost: 3.0
+color: ffffff
+research: iron-plate
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
