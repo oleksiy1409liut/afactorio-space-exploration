@@ -1,0 +1,12 @@
+type: Router 
+name: Router
+health: 80
+itemCapacity: 6
+requirements: [
+  iron-plate/6
+] 
+category: distribution
+research: {
+    parent: iron-conveyor
+},
+alwaysUnlocked: true
