@@ -1,13 +1,13 @@
-{
-  "type": "Wall",
-  name: stone wall
-  "description": "simple stone wall made out of stone bricks and stone as filling",
-  "category": "defense",
-  "research": "stone-bricks",
-  "requirements": [
-    "stone-bricks/4",
-    "stone/5"
-  ],
-  "health": 135,
-  "size": 1,
-}
+    "type": "Wall",
+    "health": 125,
+    "size": 1,
+    "name": "stone wall"
+    category: defense
+requirements: [
+  stone-bricks/2
+  stone/4
+]
+research: "stone-bricks"
+researchCost: [
+    basic-tech-pack/10
+  ]
