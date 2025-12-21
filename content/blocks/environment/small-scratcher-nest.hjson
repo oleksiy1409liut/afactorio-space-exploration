@@ -4,6 +4,7 @@ description: produces the small scratcher units
 type: unitFactory
 configurable: false
 isBuildable: false
+squareSprite: false
 consumes: {}
 plans: [
 {
