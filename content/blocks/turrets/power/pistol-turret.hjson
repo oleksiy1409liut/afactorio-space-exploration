@@ -52,5 +52,8 @@
     }
   ],
   "category": "turret",
-  "research": "spaceship-turret",
+   research: "basic-tech-pack"
+researchCost: [
+    basic-tech-pack/15
+  ]
 }
