@@ -1,4 +1,4 @@
-name: "factorio-SE-K2"
+name: "factorio"
 description: 
 ''' 
 factorio space exploration+K2 in mindustry, also has lots of my additions and is undeveloped, to research you must make tech packs and escape the galaxy
@@ -8,5 +8,5 @@ author: "minos prime ultrakill (AKA auvathia teams leader)"
 minGameVersion: 146
 version: "alpha v0.03"
 displayName: "space exploration"
-subtitle: "rocc"
+subtitle: "more rocc"
 dependencies: ["multi-crafter"]
