@@ -1,0 +1,48 @@
+{
+    "name": "burner science assembler",
+	"description": "consumes coal fuel to assemble tech packs of the simple tiers, either from plain materials or different data cards, also can be used to make simple data cards",
+    "type": "multicraft.MultiCrafter",
+    "buildCostMultiplier": 0.1,
+    "category": "crafting",
+    "research": "research-remnant", 
+    "requirements": [
+      "copper-plate/15",
+      "iron-plate/20",
+	  "stone-bricks/16",
+	  "stone/20",
+    ],
+    "size": 3,
+    "hasLiquids": false,
+    "hasItems": true,
+    "craftEffect": "none",
+    "itemCapacity": 45,
+    "recipes": [
+  {
+    "input": {
+        "items": ["factorio-wood/2","factorio-stone-tablet/4","factorio-copper-wire/2","coal/4",]
+        },
+    "output": {
+        "items": ["factorio-basic-tech-pack/5"]
+        },
+    "craftTime": 900
+  },
+  {
+    "input": {
+        "items": ["factorio-copper-plate/1111","coal/1111",]
+        },
+    "output": {
+        "items": ["factorio-copper-wire/1"]
+        },
+    "craftTime": 300
+  },
+  {
+    "input": {
+        "items": ["factorio-copper-wire/300","factorio-stone-tablet/1","coal/100",]
+        },
+    "output": {
+        "items": ["factorio-basic-circuit/1",]
+        },
+    "craftTime": 600
+  },
+]
+}
