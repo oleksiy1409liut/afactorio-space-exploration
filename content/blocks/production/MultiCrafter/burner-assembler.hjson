@@ -19,30 +19,30 @@
     "recipes": [
   {
     "input": {
-        "items": ["factorio-se-k2-stone-bricks/1","coal/1",]
+        "items": ["factorio-stone-bricks/1","coal/1",]
         },
     "output": {
-        "items": ["factorio-se-k2-stone-tablet/4"]
+        "items": ["factorio-stone-tablet/4"]
         },
-    "craftTime": 60
+    "craftTime": 120
   },
   {
     "input": {
-        "items": ["factorio-se-k2-copper-plate/1","coal/1",]
+        "items": ["factorio-copper-plate/1","coal/1",]
         },
     "output": {
-        "items": ["factorio-se-k2-copper-wire/2"]
+        "items": ["factorio-copper-wire/2"]
         },
     "craftTime": 30
   },
   {
     "input": {
-        "items": ["factorio-se-k2-copper-wire/3","factorio-se-k2-stone-tablet/1","coal/1",]
+        "items": ["factorio-copper-wire/3","factorio-stone-tablet/1","coal/1",]
         },
     "output": {
-        "items": ["factorio-se-k2-basic-circuit/1",]
+        "items": ["factorio-basic-circuit/1",]
         },
-    "craftTime": 120
+    "craftTime": 60
   },
 ]
 }
