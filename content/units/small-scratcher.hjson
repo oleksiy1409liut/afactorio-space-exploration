@@ -2,13 +2,13 @@ type: mech
 name: "small scratcher"
 description: "small scratcher type unit, very weak but can be hard to kill in swarms, also nimble"
 health: 155
-speed: 1
+speed: 1.1
 mechFrontSway: 0.32
 mechSideSway: 0.6
 hitSize: 9
 drag: 0.3
 accel: 0.5
-range: 1.5
+range: 1
 targetGround: true
 targetAir: true
 armor: 1
@@ -32,7 +32,7 @@ weapons:[{
         damage: 5
         backColor: f9c27aff
         frontColor: fff8e8ff
-        speed: 90
+        speed: 9
         lifetime: 5
         width: 10
         height: 14
