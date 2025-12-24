@@ -14,8 +14,8 @@ drillTime: 200
 drawMineItem: false
 alwaysUnlocked: true
 requirements: [
-  factorio-se-k2-iron-plate/15
-  factorio-se-k2-stone-bricks/5
+  factorio-iron-plate/15
+  factorio-stone-bricks/5
 ]
 category: production
 research: {
