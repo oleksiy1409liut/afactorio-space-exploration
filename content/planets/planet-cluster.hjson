@@ -56,9 +56,9 @@ cloudMesh: {
 # better make sector presets and don't waste your time with this.
 generator: {
   # Mininum amount of asteroids.
-  min: 1
+  min: 0
   # Maximum amount of asteroids.
-  max: 1
+  max: 0
 
   # Noise properties.
   octaves: 2
@@ -91,9 +91,9 @@ alwaysUnlocked: true
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
 sectorSize: 2
 # Spacing between a parent (this) and satellites.
-orbitSpacing: 10
+orbitSpacing: 1
 # Radius of this planet's sphere.
-radius: 0
+radius: 2
 # Minimum camera zoom.
 minZoom: 0.5
 # Whether to draw the orbit.
@@ -106,7 +106,7 @@ accessible: true
 # Toggle day-night cycle.
 updateLighting: true
 # A number used for sector generation. If == -1, planet ID is picked instead.
-sectorSeed: 529
+sectorSeed: 1
 # Whether this planet is blooming.
 bloom: false
 # This is self-explanatory...
