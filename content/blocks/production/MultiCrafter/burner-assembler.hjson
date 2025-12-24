@@ -28,6 +28,15 @@
   },
   {
     "input": {
+        "items": ["factorio-iron-plate/1","coal/1",]
+        },
+    "output": {
+        "items": ["factorio-iron-gear/2"]
+        },
+    "craftTime": 120
+  },
+  {
+    "input": {
         "items": ["factorio-copper-plate/1","coal/1",]
         },
     "output": {
