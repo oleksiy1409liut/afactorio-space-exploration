@@ -1,7 +1,7 @@
 type: mech
 name: "small scratcher"
-description: "small scratcher type unit, very weak but can be hard to kill in swarms"
-health: 100
+description: "small scratcher type unit, very weak but can be hard to kill in swarms, also nimble"
+health: 155
 speed: 1
 mechFrontSway: 0.32
 mechSideSway: 0.6
@@ -11,7 +11,7 @@ accel: 0.5
 range: 16
 targetGround: true
 targetAir: true
-armor: 0
+armor: 1
 rotateSpeed: 30
 canBoost: false
 weapons:[{
@@ -29,15 +29,15 @@ weapons:[{
     ejectEffect: casing1
     bullet:{
         type: BasicBulletType
-        damage: 4
+        damage: 5
         backColor: f9c27aff
         frontColor: fff8e8ff
-        speed: 6
+        speed: 90
         lifetime: 5
         width: 10
         height: 14
         knockback: 1.7
-        buildingDamageMultiplier: 1
+        buildingDamageMultiplier: 1.1
     }
 }
 ]
