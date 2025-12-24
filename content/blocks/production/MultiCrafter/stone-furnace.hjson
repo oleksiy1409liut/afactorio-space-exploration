@@ -18,28 +18,28 @@
     "recipes": [
     {
     "input": {
-        "items": ["coal/4","factorio-se-k2-copper-ore/20",]
+        "items": ["coal/4","factorio-copper-ore/20",]
         },
     "output":{
-        "items": ["factorio-se-k2-copper-plate/15"]
+        "items": ["factorio-copper-plate/15"]
         },
     "craftTime": 1200
     },
 	{
     "input": {
-        "items": ["factorio-se-k2-stone/8","coal/2",]
+        "items": ["factorio-stone/8","coal/2",]
         },
     "output":{
-        "items": ["factorio-se-k2-stone-bricks/4"]
+        "items": ["factorio-stone-bricks/4"]
         },
-    "craftTime": 1200
+    "craftTime": 300
     },
     {
     "input": {
-        "items": ["factorio-se-k2-iron-ore/20","coal/4",]
+        "items": ["factorio-iron-ore/20","coal/4",]
         },
     "output":{
-        "items": ["factorio-se-k2-iron-plate/15"]
+        "items": ["factorio-iron-plate/15"]
         },
     "craftTime": 1200
     },
