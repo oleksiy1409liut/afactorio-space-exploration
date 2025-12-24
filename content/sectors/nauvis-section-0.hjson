@@ -1,0 +1,8 @@
+localizedName: nauvis section 0
+description: for you have crash landed on a planet no one ever knew about with the minimal memory restored in your core, create the basic and automation tech packs and learn more about your incident while fighting off the natives 
+captureWave: 0
+planet: planet-cluster
+sector: 1
+research: research-remnant
+difficulty: 1
+alwaysUnlocked: true
