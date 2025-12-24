@@ -8,7 +8,7 @@ mechSideSway: 0.6
 hitSize: 9
 drag: 0.3
 accel: 0.5
-range: 16
+range: 1.5
 targetGround: true
 targetAir: true
 armor: 1
