@@ -28,6 +28,15 @@
   },
   {
     "input": {
+        "items": ["factorio-stone/4","coal/2",]
+        },
+    "output": {
+        "items": ["factorio-sand/10"]
+        },
+    "craftTime": 180
+  },
+  {
+    "input": {
         "items": ["factorio-iron-plate/1","coal/1",]
         },
     "output": {
