@@ -9,7 +9,7 @@ plans: [
 {
 unit: rifle-drone
   requirements: [
-  basic-drone/1
+  smasher/1
   coal/35
   iron-plate/25
   basic-circuit/1
