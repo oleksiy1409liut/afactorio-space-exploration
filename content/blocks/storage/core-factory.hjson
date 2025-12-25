@@ -1,0 +1,26 @@
+type: CoreBlock
+name: core: factory
+description: a better and repaired version of the research remnant, better armored, has more storage and allows more operations with helper vehicles
+requirements: [
+ stone/1000
+ iron-plate/1200
+ copper-plate/800
+ basic-circuit/400
+ stone-bricks/1200
+ copper-wire/1000
+ iron-gear/350
+]
+isFirstTier: false
+size: 4
+squareSprite: false
+alwaysUnlocked: true
+unitType: smasher
+health: 1200
+itemCapacity: 2800
+unitCapModifier: 10
+category: effect
+research: "basic-tech-pack"
+researchCost: [
+    basic-tech-pack/150
+    basic-circuit/100
+  ]
