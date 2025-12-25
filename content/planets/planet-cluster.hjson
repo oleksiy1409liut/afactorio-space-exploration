@@ -119,11 +119,11 @@ iconColor: 29302b
 # Another self-explanatory field...
 hasAtmosphere: false
 # Whether simulate waves when off-planet.
-allowWaveSimulation: true
+allowWaveSimulation: false
 # Whether allow to land on procedurally generated sectors at all. False = only presets are available.
 allowLaunchToNumbered: false
 # Whether sectors are reset when a player loses them.
-clearSectorOnLose: true
+clearSectorOnLose: false
 # Whether waves are re-created when a sector is lost.
 allowWaves: true
 # Icon's name displayed in top-left dialog.
