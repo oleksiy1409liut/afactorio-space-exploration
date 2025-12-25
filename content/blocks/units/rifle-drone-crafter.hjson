@@ -1,0 +1,30 @@
+name: rifle drone crafter
+size: 3
+description: loads basic drones with iron plates and coal to make them into rifle drones, also reprograms them for military purposes
+type: unitFactory
+configurable: false
+isBuildable: true
+squareSprite: false
+consumes: {}
+plans: [
+{
+unit: rifle-drone
+  requirements: [
+  basic-drone/1
+  coal/35
+  iron-plate/25
+  basic-circuit/1
+  ]
+time: 6400
+}
+]
+research: rifle-drone
+category: units
+requirements: [
+basic-circuit/5
+iron-plate/35
+copper-wire/25
+copper-plate/5
+iron-gear/10
+stone-bricks/50
+]
