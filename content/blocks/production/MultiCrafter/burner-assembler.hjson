@@ -1,6 +1,6 @@
 {
     "name": "burner assembler",
-	"description": "can produce lots of materials at a slow speed and requires coal as fuel, required to progress in your mission",
+	"description": "can produce lots of materials at a slow speed and requires coal as fuel, required to progress in your mission (can be used to make 1k copper and 800 lead for sector launching)",
     "type": "multicraft.MultiCrafter",
     "buildCostMultiplier": 0.1,
     "category": "crafting",
@@ -25,6 +25,15 @@
         "items": ["factorio-stone-tablet/4"]
         },
     "craftTime": 120
+  },
+  {
+    "input": {
+        "items": ["coal/10",]
+        },
+    "output": {
+        "items": ["lead/800","copper/1000",]
+        },
+    "craftTime": 12000
   },
   {
     "input": {
