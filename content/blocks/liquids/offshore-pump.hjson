@@ -1,12 +1,18 @@
 type: Pump
 name: offshore pump
-description: pumps a lot of liquid from liquid tiles
+description: pumps a lot of liquid from liquid tiles (mostly placeholder sprite)
 size: 2
 category: liquid
 squareSprite: false
-research: basic-tech-pack
+research: "basic-tech-pack"
+researchCost: [
+    basic-tech-pack/15
+  ]
 requirements: [
-  basic-tech-pack/15
+  iron-plate/15
+  basic-circuit/1
+  iron-gear/5
+  copper-plate/10
 ]
 pumpAmount: 1
 researchCostMultiplier: 0.5
