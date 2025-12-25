@@ -1,0 +1,12 @@
+type: Pump
+name: offshore pump
+description: pumps a lot of liquid from liquid tiles
+size: 2
+category: liquid
+squareSprite: false
+research: basic-tech-pack
+requirements: [
+  basic-tech-pack/15
+]
+pumpAmount: 1
+researchCostMultiplier: 0.5
