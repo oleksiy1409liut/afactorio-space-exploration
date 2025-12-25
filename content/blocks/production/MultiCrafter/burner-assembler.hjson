@@ -31,7 +31,7 @@
         "items": ["factorio-stone/4","coal/2",]
         },
     "output": {
-        "items": ["factorio-sand/10"]
+        "items": ["sand/10"]
         },
     "craftTime": 180
   },
