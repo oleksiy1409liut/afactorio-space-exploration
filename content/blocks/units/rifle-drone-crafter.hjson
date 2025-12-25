@@ -3,7 +3,6 @@ size: 3
 description: loads basic drones with iron plates and coal to make them into rifle drones, also reprograms them for military purposes
 type: unitFactory
 configurable: false
-isBuildable: true
 squareSprite: false
 consumes: {}
 plans: [
