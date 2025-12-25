@@ -28,6 +28,15 @@
   },
   {
     "input": {
+        "items": ["factorio-iron-plate/6","coal/6","factorio-copper-plate/6","factorio-iron-gear/3","factorio-copper-wire/3","factorio-basic-circuit/3",]
+        },
+    "output": {
+        "items": ["factorio-smasher/1"]
+        },
+    "craftTime": 600
+  },
+  {
+    "input": {
         "items": ["coal/10",]
         },
     "output": {
