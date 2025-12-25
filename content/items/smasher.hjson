@@ -1,0 +1,18 @@
+{
+type: material
+name: basic drone
+description: assembled machine capable of working for you by working in buildings or as assault drones used to attack or defend from foes
+cost: 3.0
+color: ffffff
+research: "basic-tech-pack"
+researchCost: [
+    basic-tech-pack/100
+    basic-circuit/15
+  ]
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
