@@ -32,7 +32,7 @@ researchCost: [
   },
   {
     "input": {
-        "items": ["factorio-sand/10",]
+        "items": ["sand/10",]
         "fluids": ["water/6",]
         },
     "output": {
