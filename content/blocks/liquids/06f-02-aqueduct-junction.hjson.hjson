@@ -1,0 +1,11 @@
+type: LiquidJunction
+name: pipe junction
+description: Used for creating intersections in pipes (placeholder sprite)
+solid: false
+category: liquid
+squareSprite: false
+research: offshore-pump
+requirements: [
+  iron-plate/5
+]
+researchCostMultiplier: 0.5
