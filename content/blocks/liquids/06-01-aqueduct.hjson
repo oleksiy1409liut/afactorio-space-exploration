@@ -2,9 +2,9 @@ type: Conduit
 name: pipe
 description: moves liquids (the sprites and the file name are placeholders dont worry all credit goes to asthosus im just shit at pipes)
 category: liquid
-research: basic-tech-pack
+research: offshore-pump
 requirements: [
-  basic-tech-pack/5
+  iron-plate/2
 ]
 health: 100
 leaks: false
