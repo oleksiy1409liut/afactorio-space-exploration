@@ -4,7 +4,7 @@ captureWave: 0
 planet: planet-cluster
 sector: 1
 difficulty: 2
-alwaysUnlocked: true
+alwaysUnlocked: false
 research: {
   parent: core-factory
   objectives: [
