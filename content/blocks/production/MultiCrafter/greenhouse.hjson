@@ -1,0 +1,62 @@
+{
+    "name": "greenhouse",
+	"description": "used to grow different plants like wood",
+    "type": "multicraft.MultiCrafter",
+    "buildCostMultiplier": 0.1,
+    "category": "crafting",
+    research: "wood"
+researchCost: [
+    basic-tech-pack/55
+  ]
+    "requirements": [
+      "copper-plate/20",
+      "iron-plate/35",
+	  "stone-bricks/20",
+	  "wood/6",
+    "basic-circuit/4",
+    ],
+    "size": 6,
+    "hasLiquids": true,
+    "hasItems": true,
+    "craftEffect": "none",
+    "itemCapacity": 450,
+    "recipes": [
+  {
+    "input": {
+        "items": ["sand/10",]
+        },
+    "output": {
+        "items": ["factorio-wood/40"]
+        },
+    "craftTime": 2400
+  },
+  {
+    "input": {
+        "items": ["factorio-sand/10",]
+        "fluids": ["water/6",]
+        },
+    "output": {
+        "items": ["factorio-wood/80"]
+        },
+    "craftTime": 1200
+  },
+  {
+    "input": {
+        "items": ["factorio-copper-plate/10","coal/100",]
+        },
+    "output": {
+        "items": ["factorio-copper-wire/2"]
+        },
+    "craftTime": 30
+  },
+  {
+    "input": {
+        "items": ["factorio-copper-wire/30","factorio-stone-tablet/10","coal/100",]
+        },
+    "output": {
+        "items": ["factorio-basic-circuit/1",]
+        },
+    "craftTime": 60
+  },
+]
+}
