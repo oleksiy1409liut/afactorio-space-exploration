@@ -2,11 +2,11 @@ name: "factorio"
 description: 
 ''' 
 factorio space exploration+K2 in mindustry, also has lots of my additions and is undeveloped, to research you must make tech packs and escape the galaxy
-0.03 update features: the scratchers faction who are your main enemy, burner assemblers,more content and 2 new maps coming soon!
+0.05 update features: first sector, wood growing, manufacturing, balancing, and more
 '''
 author: "minos prime ultrakill (AKA auvathia teams leader)"
 minGameVersion: 146
-version: "alpha v0.03"
+version: "alpha v0.05"
 displayName: "space exploration"
-subtitle: "more rocc"
+subtitle: "most rocc"
 dependencies: ["multi-crafter"]
