@@ -1,0 +1,48 @@
+type: mech
+name: "rifle drone"
+description: "one of the uses of basic drones, uses its simple rifle to shoot at enemies in defense or offence, loaded with coal and iron for more armor and fuel at the cost of less speed"
+health: 275
+speed: 0.65
+mechFrontSway: 0.32
+mechSideSway: 0.6
+hitSize: 9
+drag: 0.3
+accel: 0.5
+range: 200
+itemCapacity: 10
+targetGround: true
+targetAir: true
+armor: 2
+rotateSpeed: 20
+canBoost: false
+weapons:[{
+    name: drone-weapon
+    reload: 16
+    x: 4
+    y: 2
+    shootY: 3
+    shootCone: 30
+    inaccuracy: 0
+    shootSound: pew
+    rotate: false
+    recoil: 2
+    top: false
+    ejectEffect: casing1
+    bullet:{
+        type: BasicBulletType
+        damage: 28
+        backColor: f9c27aff
+        frontColor: fff8e8ff
+        speed: 3.5
+        lifetime: 50
+        width: 10
+        height: 14
+        knockback: 1.7
+        buildingDamageMultiplier: 1
+    }
+}
+]
+research: "basic-drone"
+researchCost: [
+    basic-tech-pack/25
+  ]
