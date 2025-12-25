@@ -1,0 +1,8 @@
+localizedName: nauvis section 1
+description: less space, resources and threat but has water which is crucial for wood production and other stuff, make this your main basic tech pack outpost and research further
+captureWave: 0
+planet: planet-cluster
+sector: 1
+research: core-factory
+difficulty: 2
+alwaysUnlocked: true
