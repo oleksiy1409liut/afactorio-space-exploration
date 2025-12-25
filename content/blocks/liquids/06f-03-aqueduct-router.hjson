@@ -1,0 +1,15 @@
+type: LiquidRouter
+name: pipe router
+description: distributes liquids equally from the inputs to outputs (placeholdfer sprite)
+size: 1
+solid: false
+underBullets: false
+health: 100
+liquidCapacity: 45
+category: liquid
+squareSprite: false
+research: offshore-pump
+requirements: [
+  iron-plate/5
+]
+researchCostMultiplier: 0.5
