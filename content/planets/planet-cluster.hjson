@@ -123,7 +123,7 @@ allowWaveSimulation: false
 # Whether allow to land on procedurally generated sectors at all. False = only presets are available.
 allowLaunchToNumbered: false
 # Whether sectors are reset when a player loses them.
-clearSectorOnLose: false
+clearSectorOnLose: true
 # Whether waves are re-created when a sector is lost.
 allowWaves: false
 # Icon's name displayed in top-left dialog.
