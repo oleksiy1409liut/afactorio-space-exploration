@@ -1,0 +1,4 @@
+name: "rocky floor"
+type: Floor
+variants: 1
+placeableOn: true
