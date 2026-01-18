@@ -1,0 +1,14 @@
+{
+type: material
+name: empty data card
+description: empty data cards are used in storing different data about different things
+cost: 3.0
+color: ffffff
+research: basic-tech-pack
+
+explosiveness: 0
+flammability: 0
+radioactivity:0
+charge: 0
+hardness: 0
+}
